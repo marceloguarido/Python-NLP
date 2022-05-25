@@ -14,6 +14,8 @@ Using python + natural language processing for topic modeling through Latent Dir
 
 ## NLP for topic modeling - TF-IDF - coming soon
 
+It's taking too long!
+
 ## NLP for sentiment analysis - coming soon
 
 ## NLP for document classification - coming soon
